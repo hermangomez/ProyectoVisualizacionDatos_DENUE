@@ -1,4 +1,4 @@
-# ProyectoVisualizacionDatos_DENUE
+# Proyecto Visualizacion Datos DENUE 01 
 Visualizacion de datos del DENUE DIRECTORIO ESTADISTICO NACIONAL DE UNIDADES ECONOMICAS
 
 # Descripción del proyecto:
