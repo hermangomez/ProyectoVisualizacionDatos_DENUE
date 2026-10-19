@@ -23,9 +23,9 @@ Fuente de descarga del DENUE Aguascalientes: https://www.inegi.org.mx/app/descar
 
 # Estructura del proyecto
 
-notebooks/: notebook de analisis de los datos. 
+notebooks/: notebook de analisis de las variables del DENUE. 
 
-data/: documentación y referencias de los datos.
+Tableau/: contiene las hojas de trabajo, visualizaciones, calculos y configuraciones del análisis.
 
 images/: capturas de las visualizaciones finales.
 
