@@ -2,6 +2,7 @@
 Visualizacion de datos del DENUE DIRECTORIO ESTADISTICO NACIONAL DE UNIDADES ECONOMICAS
 
 Fuente: Instituto Nacional de Estadistica y Geografia INEGI
+
 Conjunto de datos: DENUE 2026 
 
 Cobertura: Aguascalientes, Mexico.
