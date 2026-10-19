@@ -6,6 +6,7 @@ Fuente: Instituto Nacional de Estadistica y Geografia INEGI
 Conjunto de datos: DENUE 2026 
 
 Cobertura: Aguascalientes, Mexico.
+
 Publicacion: Mayo/2026.
 
 Formato: CSV
