@@ -23,8 +23,36 @@ Fuente de descarga del DENUE Aguascalientes: https://www.inegi.org.mx/app/descar
 
 # Estructura del proyecto
 
-notebooks/: notebooks de carga, limpieza y análisis.
+notebooks/: notebook de analisis de los datos. 
 
 data/: documentación y referencias de los datos.
 
 images/: capturas de las visualizaciones finales.
+
+#  Archivos del proyecto
+
+Tableau/
+
+denue.hyper: contiene el conjunto de datos utilizado por Tableau.
+
+analisis_denue.twb: contiene las hojas de trabajo, visualizaciones, cálculos y configuraciones del análisis.
+
+images/: contiene capturas de pantalla de las visualizaciones finales.
+
+#   Procedimiento para reproducir el análisis
+
+Instalar una versión compatible de Tableau Desktop y abrir la aplicación.
+
+Descargar los archivos analisis_denue.twb y denue.hyper.
+
+Colocar ambos archivos en una ubicación accesible en el equipo.
+
+Abrir analisis_denue.twb en Tableau Desktop.
+
+Si Tableau solicita localizar el origen de datos, seleccionar el archivo denue.hyper y verificar la conexión.
+
+Revisar las hojas de trabajo, los filtros y las visualizaciones para comprobar que se muestran correctamente.
+
+# Limitaciones
+
+La reproducción requiere acceso a los archivos de datos y a una versión compatible de Tableau Desktop. Los resultados corresponden a la edición del DENUE utilizado.
