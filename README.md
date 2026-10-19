@@ -10,8 +10,6 @@ Publicacion: Mayo/2026.
 
 Formato: CSV
 
-Variables de interes: nombre del establecimiento, activida economica, personal ocupado, municipio, localidad, tipo de asentamiento,
-fecha de alta al DENUE.
-
+Variables de interes: nombre del establecimiento, activida economica, personal ocupado, municipio, longitud, latitud, fecha de alta al DENUE.
 
 Fuente de descarga del DENUE Aguascalientes: https://www.inegi.org.mx/app/descarga/default.html
